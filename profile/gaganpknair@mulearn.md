@@ -94,6 +94,6 @@
 #### Profile Card:
 
 <img
-    src="https://mulearn.org/embed/rank/gaganpknair@mulearn"
+    src="https://mulearn.org/embed/rank/gaganpk@mulearn"
     width="400px">
 </img>
